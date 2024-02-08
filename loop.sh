@@ -1,0 +1,4 @@
+#1/bin/bash/
+for a in 1 2 3;do
+    touch file$a;
+done
